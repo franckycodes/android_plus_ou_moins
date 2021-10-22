@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.plusoumoins.MainActivity">
+    <item
+        android:id="@+id/about_id"
+        android:title="Momba app" />
+    <item
+        android:id="@+id/close_app_id"
+        android:title="close " />
+</menu>
